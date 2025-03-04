@@ -1,4 +1,4 @@
-# 🚀 Azure Data Engineering Project
+# 🚀 Cloud-Native Data Platform with Real-Time Streaming and Automated Deployments
 
 ## 📌 Overview
 This project provisions and manages Azure cloud resources using **Infrastructure-as-Code (IaC)** and implements end-to-end **data engineering workflows**. It includes **ETL pipelines, real-time data streaming, and CI/CD automation**.
