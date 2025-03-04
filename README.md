@@ -29,9 +29,9 @@ This project provisions and manages Azure cloud resources using **Infrastructure
 
 ## ⚙ CI/CD Implementation
 
-🔹 ADF Pipelines: Automated deployments using Azure DevOps YAML pipelines.
+- 🔹 **ADF Pipelines:** Automated deployments using Azure DevOps YAML pipelines.
+- 🔹 **Databricks Notebooks:** Synced via Databricks Repos and deployed using DevOps.
 
-🔹 Databricks Notebooks: Synced via Databricks Repos and deployed using DevOps.
 ---
 
 ## 📝 Summary
